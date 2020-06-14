@@ -48,5 +48,5 @@ This should now show up in your script list, where you can toggle it on off. If 
 
 ### UserScript Managers
 
-You can also add it viia your favourite user script manager like TamperMonkey or GreaseMonkey
+You can also add it via your favourite user script manager like TamperMonkey or GreaseMonkey
 
