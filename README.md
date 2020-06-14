@@ -16,6 +16,8 @@ This will probably be useless for anyone else but AO3's ui put me in a mood `¯\
 - Hides chapter summary & notes section with option to toggle
 - Currently has a dark theme for the thirsty nerds reading smut in the dead of night
 
+---
+
 
 ![DF AO3](df-ao3.gif)
 
