@@ -44,7 +44,7 @@ You need to use your favourite JS/CSS injection plugin for your favourite browse
 7. Copy contents of [css.css](css.css) and paste in in the CSS pane (right side)
 8. Click Save
 
-Should not show up in your script list, where you can toggle it on off. If on, the button to enable the plugin will show up on the works pages.
+This should now show up in your script list, where you can toggle it on off. If on, the button to enable the plugin will show up on the works pages.
 
 ### UserScript Managers
 
