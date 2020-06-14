@@ -11,7 +11,7 @@
 			$('.df-ao3_container').append('<button class="df-ao3_btn">DF AO3</button>'),$('.df-ao3_container').prepend('<div class="df-ao3_meta"></div>');
 			$('#chapters').prepend('<div class="df-ao3_chapter-meta"></div>');
 			$('.chapter > .chapter.preface h3.title').addClass('df-ao3_chapter-title').prependTo('.df-ao3_chapter-meta');
-			$('.df-ao3_chapter-meta').append('<button class="df-ao3_notes">Summary & Notes</button>');
+			$('.df-ao3_chapter-meta').append('<button class="df-ao3_notes">Chapter Summary & Notes</button>');
 			$('#feedback ul.actions').addClass('df-ao3_actions').appendTo('.df-ao3_container');
 		}
 
