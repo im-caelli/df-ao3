@@ -7,7 +7,9 @@ This will probably be useless for anyone else but AO3's ui put me in a mood `¯\
 
 ## What it do baby
 
-![What it do baby](https://media.giphy.com/media/KxcDD4s0RDVcbcomuP/source.gif)
+<img align="right" width="197" height="150" src="https://media.giphy.com/media/KxcDD4s0RDVcbcomuP/source.gif" alt="What it do baby">
+
+### Here's what it do:
 
 - Adds a button on the bottom left corner of "works" pages to enable/disable the visual injection
 - Yeets everything on the page except for the actual story and important stuff
