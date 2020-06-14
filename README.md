@@ -2,14 +2,20 @@
 
 Was being a huge nerd this weekend, trying to read fanfiction on AO3, but *could not* deal with the UI. Made a little obnoxious visual injection for a distraction free" reading experience.
 
+This will probably be useless for anyone else but AO3's ui put me in a mood `¯\_(ツ)_/¯`
+
+
 ## What it do baby
 
 ![What it do baby](https://media.giphy.com/media/KxcDD4s0RDVcbcomuP/source.gif)
 
 - Adds a button on the bottom left corner of "works" pages to enable/disable the visual injection
 - Yeets everything on the page except for the actual story and important stuff
-- Hides summary & notes section with option to toggle
+- Hides chapter summary & notes section with option to toggle
 - Currently has a dark theme for the thirsty nerds reading smut in the dead of night
+
+
+![DF AO3](df-ao3.gif)
 
 
 ## How to use
@@ -35,4 +41,8 @@ You need to use your favourite JS/CSS injection plugin for your favourite browse
 8. Click Save
 
 Should not show up in your script list, where you can toggle it on off. If on, the button to enable the plugin will show up on the works pages.
+
+### UserScript Managers
+
+You can also add it viia your favourite user script manager like TamperMonkey or GreaseMonkey
 
