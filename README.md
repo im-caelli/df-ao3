@@ -33,7 +33,7 @@ You need to use your favourite JS/CSS injection plugin for your favourite browse
     * Only tested on here so that's recommended
 2. Click the plugin and "Add new Site"
 3. Add a name. It can be whatever. (ie, "Distraction Free AO3 - Dark Mode")
-4. For the URL add `https://archiveofourown.org/works/*/chapters/*`. This is what tells it to only enables the plugin in actual story pages
+4. For the URL add `https://archiveofourown.org/works/*/`. This is what tells it to only enables the plugin in actual story pages
 5. For Settings, check off:
    * Enabled
    * Highest CSS Priority
